@@ -33,6 +33,12 @@ This project addresses the critical challenge of identifying fraudulent transact
 *   **Visual Strategy:** Time-based anomaly segmentation for executive decision-making.
 
 
+
+### 🐍 Layer 5 Governance: Live Anomaly Isolation (Python Proof)
+![Anomaly_Isolation_Map](Anomaly_Isolation_Map.png)
+* **Technical Impact:** Every **Magenta 'X'** represents a zero-day threat isolated by its statistical distance, ensuring reliability even when patterns are unknown
+
+
 ### 🛠️ Tech Stack & Architecture
 *   **Algorithm:** Isolation Forest (Unsupervised Outlier Detection).
 *   **Engine:** Python 3.x (Scikit-Learn, Pandas, NumPy).
