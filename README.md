@@ -57,6 +57,8 @@ This project addresses the critical challenge of identifying fraudulent transact
   ---
 ## 🚀 UPDATE April 2026: Layer 5 Model Governance & Drift Monitoring 🏛️🦾
 
+![NovaClic Model Integrity Audit](NovaClic_Drift_Audit_2026.png)
+
 In production environments, identifying a fraud pattern is only half the battle. The true challenge is **Model Integrity**. 
 
 As AI agents interact and data distributions shift, models can lose accuracy without warning (**Concept Drift**). To address this, we have integrated a **Model Health Monitor** based on the Kolmogorov-Smirnov statistical test.
