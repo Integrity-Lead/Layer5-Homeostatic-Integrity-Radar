@@ -143,11 +143,12 @@ In production systems, detecting anomalies is only half the battle. As data dist
 
 *  **Statistical Drift Detection**
      Continuous **p-value** analysis comparing:
-   
         **Trusted Baseline**
         **Live Production Stream**
-  
-* **Automated Risk Response**
+
+
+
+   * **Automated Risk Response**
     Triggers immediate alerts when model integrity is compromised or falls below safety thresholds.
 
 
