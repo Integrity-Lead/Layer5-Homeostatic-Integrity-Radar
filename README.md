@@ -92,6 +92,9 @@ python drift_monitor.py
 ### 📉 Visualizing the Strategic Risk Gap
 The system generates a **Model Integrity Audit** report. When the **Production Data (Magenta)** deviates from the **Trusted Baseline (Blue)**, the "Observer Agent" alerts the C-Suite of a compromised state.
 
+![NovaClic Model Integrity Audit](NovaClic_Drift_Audit_2026.png)
+
+
 > ### **"We don't just build models; we govern the relationships between them."** 🛡️⚙️
 
 ---
@@ -103,7 +106,8 @@ The system generates a **Model Integrity Audit** report. When the **Production D
 
 As AI ecosystems evolve towards **Agentic Autonomy**, traditional monitoring is no longer sufficient. This update introduces the **Autonomic Governance Audit**—a layer designed not just to detect drift, but to enforce **Operational Integrity** in real-time.
 
-![NovaClic Model Integrity Audit](NovaClic_Drift_Audit_2026.png)
+![NovaClic Model Integrity Audit](NovaClic_Autonomic_Immunity_2026)
+
 
 ---
 
