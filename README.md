@@ -48,6 +48,8 @@ Powered by the **Isolation Forest algorithm**, the system identifies statistical
 
 ### 🐍 Layer 5 Governance: Model Integrity Monitoring
 ![Anomaly_Isolation_Map](Anomaly_Isolation_Map.png)
+
+
 *Every **Magenta 'X'** represents a zero-day threat isolated by its statistical distance, ensuring reliability even when patterns are unknown.*
 
 In production systems, detection is only half the battle. As data distributions shift over time (**Concept Drift**), models can quietly degrade, leading to critical failures.
