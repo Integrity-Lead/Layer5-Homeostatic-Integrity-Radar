@@ -5,7 +5,7 @@
 
 
  # 🛡️AI Model Governance & Anomaly Detection for Financial Risk
-**By NovaClic Data | MSc. AI & BI Strategic Specialist**
+**By NovaClic Data | AI & BI Strategic Specialist**
   
   **Data Strategist | Financial Cybersecurity & Outlier Detection**
   
@@ -26,7 +26,7 @@ This project addresses one of the most critical challenges in modern financial s
 Powered by the *Isolation Forest algorithm*, the system identifies statistical outliers that traditional rule-based engines often fail to capture.
 Beyond detection, the architecture integrates a *Model Governance Layer* to continuously oversee integrity through statistical drift detection.
 
-*"We don't just build models; we govern their behavior in production."*
+#### "We don't just build models; we govern their behavior in production."
 
 ### ⚙️ How it Works
 [Transaction Data]
@@ -40,15 +40,15 @@ Beyond detection, the architecture integrates a *Model Governance Layer* to cont
 [Alert & Decision Layer]
 
 ### Process Breakdown
-*   **Input:* Transactional datasets (Numerical features)
-*   **Detection:* Isolation Forest assigns anomaly scores.
-*   **Flagging:* High-score transactions are classified as anomalies.
-*   **Monitoring:*
+*   ** Input:* Transactional datasets (Numerical features)
+*   ** Detection:* Isolation Forest assigns anomaly scores.
+*   ** Flagging:* High-score transactions are classified as anomalies.
+*   ** Monitoring:*
 Baseline vs. Production comparison.
-  -Drift detection via the Kolmogorov-Smirnov test.
-*   **Output:*
-  -Anomaly alerts.
-  -Model Drift triggers (automated alerts).
+  Drift detection via the Kolmogorov-Smirnov test.
+*   ** Output:*
+  Anomaly alerts.
+  Model Drift triggers (automated alerts).
 
 
 ### 🔍 Engine Anomaly Detection Radar (Python Analysis)
@@ -57,7 +57,7 @@ Baseline vs. Production comparison.
 
 ### 📊 Strategic Executive Dashboard (Power BI)
 ![Strategic_Risk_Intelligence_Report_Novaclic_Data](Strategic_Risk_Intelligence_Report_Novaclic_Data.png)
-*   **Strategic KPI:**High anomaly detection consistency (~93%) in controlled environments.
+*   ** Strategic KPI:**High anomaly detection consistency (~93%) in controlled environments.
 *   **Visual Strategy:** Time-based anomaly segmentation.
 *   ** Objective:** Translating raw data into actionable signals for executive decision-making.
 
