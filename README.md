@@ -52,7 +52,7 @@ Powered by the **Isolation Forest algorithm**, the system identifies statistical
 
 *Every **Magenta 'X'** represents a zero-day threat isolated by its statistical distance, ensuring reliability even when patterns are unknown.*
 
-In production systems, detection is only half the battle. As data distributions shift over time (**Concept Drift**), models can quietly degrade, leading to critical failures.
+In production systems, detection is only half the battle. As data distributions shift over time **(Concept Drift)**, models can quietly degrade, leading to critical failures.
 
 #### Key Capabilities:
 *   **Active Boundary Monitoring:** Ensures structural consistency between the **Trusted Baseline** and live production data.
