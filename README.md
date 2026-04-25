@@ -78,10 +78,6 @@ Real-time Production Data
 Automated Risk Response: Triggers alerts when model integrity is compromised.
 
 
-### 📈 Risk Gap Visualization
-**When production data (Magenta) deviates from the trusted baseline (Blue):**
-👉 The system flags a Compromised Model State.
-
 ### This prevents:
 * **Silent Model Failure.**
 * **Blind Decision-making.**
@@ -180,7 +176,7 @@ python drift_monitor.py
 ### 📈 Visualizing the Strategic Risk Gap:
 The system generates a **Model Integrity Audit** report. When the **Production Data (Magenta)** deviates from the **Trusted Baseline (Blue)**, the "Observer Agent" alerts the C-Suite of a compromised state.
 
-> **"We don't just build models; we govern the relationships between them."** 🛡️⚙️
+> ### **"We don't just build models; we govern the relationships between them."** 🛡️⚙️
 ---
 
 
