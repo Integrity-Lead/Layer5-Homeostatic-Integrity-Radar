@@ -1,5 +1,4 @@
-<div align="center">
-<img width="1500" height="300" alt="NovaClic_Data_Official_Brand_Banner" src="https://github.com/novaclic-data/advanced-fraud-anomaly-detection-python/blob/main/NovaClic_Data_Official_Brand_Banner.png?raw=true" />
+![Status: Active](https://shields.io) ![Architecture: Layer_5](https://shields.io) ![Region: Sao_Paulo](https://shields.io)
 
 # 🛡️ AI Model Governance & Anomaly Detection for Financial Risk
 **By NovaClic Data | AI & BI Strategic Specialist**
