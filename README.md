@@ -172,6 +172,7 @@ The generated report now explicitly maps the **Resilience Gap**:
 
 ---
 
-## 📬 Connectivity
-- **LinkedIn:** [claudia-lopez-Integrity-Lead](https://linkedin.com)
+## 📬 Connectivity & Gateway
+- **Live Infrastructure Endpoint:** [://pythonanywhere.com](http://://pythonanywhere.com) 🌐
+- **LinkedIn Authority:** [claudia-lopez-Integrity-Lead](https://linkedin.com)
 - **Technical Inquiries:** tech.lead.layer5.systems@gmail.com
