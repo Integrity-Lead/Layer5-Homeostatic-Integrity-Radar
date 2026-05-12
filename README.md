@@ -125,9 +125,8 @@ python drift_monitor.py
 The system generates a **Model Integrity Audit** report. When the **Production Data (Magenta)** deviates from the **Trusted Baseline (Blue)**, the "Observer Agent" alerts the C-Suite of a compromised state.
 
 <p align="center">
-  <img src="Sovereign_Drift_Audit_2026.png" width="800">
+  <img src="Sovereign_Drift_Audit_2026.png" width="850">
 </p>
-
 
 > ### **"We don't just build models; we govern the relationships between them."** 🛡️⚙️
 
