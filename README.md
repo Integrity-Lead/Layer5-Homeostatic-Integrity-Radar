@@ -141,7 +141,7 @@ The system generates a **Model Integrity Audit** report. When the **Production D
 As AI ecosystems evolve towards **Agentic Autonomy**, traditional monitoring is no longer sufficient. This update introduces the **Autonomic Governance Audit**—a layer designed not just to detect drift, but to enforce **Operational Integrity** in real-time.
 
 <p align="center">
-  <img src="Sovereign_Autonomic_Immunity_2026.png" width="800">
+  <img src="Sovereign_Autonomic_Immunity_2026.png" width="850">
 </p>
 ---
 
