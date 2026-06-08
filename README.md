@@ -169,6 +169,5 @@ The generated report now explicitly maps the **Resilience Gap**:
 - **Interactive Validation (API):** `POST /validate` 
   - *Try sending a JSON payload: `{"value": 0.95}` to trigger the Layer 5 Enforcement.*
 - **Technical Inquiries:** tech.lead.layer5.systems@gmail.com
-- **LinkedIn Authority:** [claudia-lopez-Integrity-Lead](https://linkedin.com)
 
 ---
