@@ -1,5 +1,6 @@
 # INTEGRITY CORE ENFORCEMENT // METRICS RECONCILIATION PIPELINE
 # STATISTICAL MONITORING: Calibrating continuous p-value thresholds under EU AI Act & NIST frameworks.
+# RUNTIME AUDIT PATH // ENFORCING IDEMPOTENT VALIDATION BOUNDARIES FOR B2B STREAMS
 
 import numpy as np
 import matplotlib.pyplot as plt
