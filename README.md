@@ -313,7 +313,9 @@ python drift_monitor.py
 ```
 
 ---
-### 🛡️ Ingestion Perimeter & Anti-Scraping ShieldTo safeguard the runtime infrastructure from automated ingestion exhaustion and telemetry contamination, the production edge implements a decoupled asynchronous filter at the gateway level. This layer drops non-parametric web scrapers and unauthorized client processes before context compilation:
+### 🛡️ Ingestion Perimeter & Anti-Scraping Shield
+To safeguard the runtime infrastructure from automated ingestion exhaustion and telemetry contamination, the production edge implements a decoupled asynchronous filter at the gateway level. 
+This layer drops non-parametric web scrapers and unauthorized client processes before context compilation:
 
 *   **Boundary Enforcement:** Stateful HTTP header inspection.
 *   **Mitigation Latency:** Sub-millisecond execution boundaries.
