@@ -313,6 +313,12 @@ python drift_monitor.py
 ```
 
 ---
+### 🛡️ Ingestion Perimeter & Anti-Scraping ShieldTo safeguard the runtime infrastructure from automated ingestion exhaustion and telemetry contamination, the production edge implements a decoupled asynchronous filter at the gateway level. This layer drops non-parametric web scrapers and unauthorized client processes before context compilation:
+
+*   **Boundary Enforcement:** Stateful HTTP header inspection.
+*   **Mitigation Latency:** Sub-millisecond execution boundaries.
+*   **Isolation Action:** Immediate HTTP 403 Forbidden containment for raw automated stream mutations (e.g., headless chrome signatures, aiohttp/requests pools) while transparently accelerating validated endpoint transactions.
+
 
 ### 📈 Business & Strategic Impact
 *   **Risk Prioritization:** Dynamic anomaly scoring framework (**70–95+ threshold**).
@@ -372,9 +378,8 @@ The generated report now explicitly maps the **Resilience Gap**:
 ---
 
 ## 📬 Connectivity & Gateway
-- **Live Infrastructure Endpoint:** [integritylead.pythonanywhere.com](https://integritylead.pythonanywhere.com) 🌐
+- **Live Infrastructure Endpoint:** [(integrityleadlabs.com)] 🌐
 - **Interactive Validation (API):** `POST /validate` 
   - *Try sending a JSON payload: `{"value": 0.95}` to trigger the Layer 5 Enforcement.*
-- **Technical Inquiries:** tech.lead.layer5.systems@gmail.com
-
+- **Technical Inquiries:** tech.lead@integrityleadlabs.com
 ---
