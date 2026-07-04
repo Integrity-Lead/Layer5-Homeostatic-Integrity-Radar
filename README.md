@@ -1,22 +1,27 @@
-<a name="top"></a>
-<div align="center">
-
-<!-- Banner Dinámico con Fondo Negro y Texto Verde Neón -->
-<img src="https://vercel.app" width="100%" alt="INTEGRITY LEAD LABS"/>
-
-# INTEGRITY LEAD LABS
+# 🏛️🛡️ INTEGRITY LEAD LABS
 
 ### Sovereign AI Infrastructure & High-Precision Layer 5 Runtime Integrity
+**Sovereign Infrastructure Enforcement | Integrity-Lead Labs**  
+*Based in São Paulo, BR | Architecting autonomous execution boundaries for high-frequency pipelines.*
 
-<!-- Efecto Máquina de Escribir Animado (Fira Code Terminal) con Codificación Saneada -->
-<img src="https://demolab.com" width="720"/>
+---
 
-<!-- Las 4 Medallas de Infraestructura Subdivididas en Dos Colores -->
-[![PyPI](https://shields.io)](https://integrityleadlabs.com) [![CI](https://shields.io)](https://integrityleadlabs.com) [![License: FINOS](https://shields.io)](https://integrityleadlabs.com) [![Suite](https://shields.io)](
+```text
+==================================================================================
+  LAYER 5 APPLICATION RUNTIME PERIMETER ENFORCEMENT // SYSTEM IMMUNITY ACTIVE
+==================================================================================
+  [+] Framework: Homeostatic Anomaly Detection (Isolation Forest & SHAP)
+  [+] Precision Boundary: 93.2% Deterministic Target Compliance
+  [+] Standards Matrix: NIST AI RMF // EU AI Act Risk Management
+==================================================================================
+```
 
-*Sovereign AI Infrastructure — securing high-frequency pipelines, transaction streams, and agentic workflows.*
+<!-- Las 4 Medallas de Infraestructura Nativas (Gris y Verde/Azul) -->
+![PyPI](https://shields.io) ![CI](https://shields.io) ![License: FINOS](https://shields.io) ![Suite](https://shields.io)
 
-</div>
+*AI Security & Governance — securing high-frequency pipelines, transaction streams, and agentic workflows.*
+
+---
 
 ```bash
 pip install integrity-layer5-radar
@@ -69,7 +74,6 @@ layer5-radar v1.0.4 // NODE: BR-932 // SÃO PAULO
 }
 ```
 <!-- integrity:example:end -->
-
 
 ---
 
