@@ -1,17 +1,18 @@
 <a name="top"></a>
 <div align="center">
 
-<!-- Banner Dinámico Premium de Ingeniería -->
+<!-- Banner Dinámico con Fondo Negro y Texto Verde Neón -->
 <img src="https://vercel.app" width="100%" alt="INTEGRITY LEAD LABS"/>
 
 # INTEGRITY LEAD LABS
 
 ### Sovereign AI Infrastructure & High-Precision Layer 5 Runtime Integrity
 
-<!-- Efecto Máquina de Escribir en Tiempo Real (Fira Code Terminal) -->
+<!-- Efecto Máquina de Escribir Animado (Fira Code Terminal) con Codificación Saneada -->
 <img src="https://demolab.com" width="720"/>
 
-[![Status: Active](https://shields.io)](#connectivity--gateway) [![Architecture: Layer 5](https://shields.io)](#architecture) [![Region: Sao Paulo](https://shields.io)](#architecture) [![Precision: 93.2%](https://shields.io)](#core-metrics--compliance)
+<!-- Las 4 Medallas de Infraestructura Subdivididas en Dos Colores -->
+[![PyPI](https://shields.io)](https://integrityleadlabs.com) [![CI](https://shields.io)](https://integrityleadlabs.com) [![License: FINOS](https://shields.io)](https://integrityleadlabs.com) [![Suite](https://shields.io)](
 
 *Sovereign AI Infrastructure — securing high-frequency pipelines, transaction streams, and agentic workflows.*
 
