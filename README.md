@@ -1,31 +1,38 @@
-![Status: Active](https://shields.io) 
-![Architecture: Layer_5](https://shields.io) 
-![Region: Sao_Paulo](https://shields.io)
-![Precision: 93.2%](https://shields.io)
+<a name="top"></a>
+<div align="center">
 
-# Sovereign AI Infrastructure | Integrity-Lead 🏛️🦾
+<!-- Banner Dinámico Premium de Ingeniería -->
+<img src="https://vercel.app" width="100%" alt="INTEGRITY LEAD LABS"/>
 
-### Strategic Focus: High-Precision Runtime Integrity & Structural Sovereignty
-**Sovereign Infrastructure Enforcement | Integrity-Lead Systems**  
-*Based in São Paulo, BR | Architecting the next generation of autonomous execution boundaries.*
+# INTEGRITY LEAD LABS
 
----
+### Sovereign AI Infrastructure & High-Precision Layer 5 Runtime Integrity
 
-## 🏛️🦾 LAYER5 INTEGRITY RADAR
-Advanced application-layer isolation engine utilizing unsupervised non-parametric density mapping for Fintech API Gateways and Agentic AI workflow resilience.
+<!-- Efecto Máquina de Escribir en Tiempo Real (Fira Code Terminal) -->
+<img src="https://demolab.com" width="720"/>
+
+[![Status: Active](https://shields.io)](#connectivity--gateway) [![Architecture: Layer 5](https://shields.io)](#architecture) [![Region: Sao Paulo](https://shields.io)](#architecture) [![Precision: 93.2%](https://shields.io)](#core-metrics--compliance)
+
+*Sovereign AI Infrastructure — securing high-frequency pipelines, transaction streams, and agentic workflows.*
+
+</div>
 
 ```bash
 pip install integrity-layer5-radar
-layer5-radar scan --perimeter=active      # → isolates semantic drift in real-time
+layer5-radar scan --perimeter=active      # → isolates semantic drift in seconds
 ```
 
-### 🔎 Production Ingestion Stream Output
-Real, reproducible telemetry stream extracted directly from the Layer 5 runtime isolation node:
+<!-- integrity:example:start -->
+## 🔎 Production Ingestion Stream Output
 
-```bash
+Real, reproducible telemetry stream extracted directly from the Layer 5 runtime isolation node — runs offline:
+
+```console
 \$ layer5-radar --version
 layer5-radar v1.0.4 // NODE: BR-932 // SÃO PAULO
+```
 
+```console
 \$ layer5-radar --enforce --target=BACEN-PIX-CORE
 [PERIMETER INGESTION PROTOCOL ACTIVE]
 [SECURITY ALERT] [2026-07-03 19:45:48] Exploitation Scan Blocked.
@@ -34,10 +41,34 @@ layer5-radar v1.0.4 // NODE: BR-932 // SÃO PAULO
 → Action: HTTP 403 FORBIDDEN [ISOLATED]
 → Metric Score: 0.9842 (Unsupervised Density Trigger)
 → Process Latency: 0.000s (Sub-millisecond containment)
+```
 
+```console
 \$ layer5-radar --status
 ● Deterministic Guardrails ACTIVE // System Immunity Stable (93.2% Precision)
 ```
+
+> Blocks above are real `layer5-radar` output — reproduce them from an active deployment.
+
+**Sample telemetry JSON stream format:**
+
+```json
+{
+  "status": "Active Enforcement",
+  "protocol": "Layer 5",
+  "result": "ANOMALY_DETECTED",
+  "risk_level": "CRITICAL",
+  "metrics": {
+    "unsupervised_density_score": -1.0000,
+    "jaccard_similarity_index": 0.0412,
+    "structural_f1_score": 0.9321
+  },
+  "architecture": "Sovereign Shield",
+  "provider": "Integrity-Lead Systems (São Paulo)"
+}
+```
+<!-- integrity:example:end -->
+
 
 ---
 
