@@ -1,25 +1,11 @@
-# 🏛️🛡️ INTEGRITY LEAD LABS
+<p align="center">
+  <video src="cabecera_layer5.mp4" width="100%" autoplay loop muted playsinline></video>
+</p>
 
+---
 ### Sovereign AI Infrastructure & High-Precision Layer 5 Runtime Integrity
 **Sovereign Infrastructure Enforcement | Integrity-Lead Labs**  
 *Based in São Paulo, BR | Architecting autonomous execution boundaries for high-frequency pipelines.*
-
----
-
-```text
-==================================================================================
-  LAYER 5 APPLICATION RUNTIME PERIMETER ENFORCEMENT // SYSTEM IMMUNITY ACTIVE
-==================================================================================
-  [+] Framework: Homeostatic Anomaly Detection (Isolation Forest & SHAP)
-  [+] Precision Boundary: 93.2% Deterministic Target Compliance
-  [+] Standards Matrix: NIST AI RMF // EU AI Act Risk Management
-==================================================================================
-```
-
-<!-- Las 4 Medallas de Infraestructura Nativas (Gris y Verde/Azul) -->
-![PyPI](https://shields.io) ![CI](https://shields.io) ![License: FINOS](https://shields.io) ![Suite](https://shields.io)
-
-*AI Security & Governance — securing high-frequency pipelines, transaction streams, and agentic workflows.*
 
 ---
 
