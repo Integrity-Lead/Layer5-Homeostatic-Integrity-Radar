@@ -1,7 +1,8 @@
-<p align="center">
-  <video src="https://github.com/Integrity-Lead/Layer5-Homeostatic-Integrity-Radar/raw/refs/heads/main/cabecera_layer5.mp4" width="100%" autoplay loop muted playsinline></video>
-</p>
+<div align="center">
 
+<img src="cabecera.png" width="100%" alt="Integrity Lead Labs"/>
+
+</div>
 
 ---
 ### Sovereign AI Infrastructure & High-Precision Layer 5 Runtime Integrity
