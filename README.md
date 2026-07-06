@@ -5,11 +5,6 @@
 </div>
 
 ---
-### Sovereign AI Infrastructure & High-Precision Layer 5 Runtime Integrity
-**Sovereign Infrastructure Enforcement | Integrity-Lead Labs**  
-*Based in São Paulo, BR | Architecting autonomous execution boundaries for high-frequency pipelines.*
-
----
 
 ```bash
 pip install integrity-layer5-radar
